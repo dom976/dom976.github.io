@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dom.gigante0@gmail.com
+    #email:
     #phone: 012 345 6789
     timezone: Europe/Rome
     citizenship: Italian
@@ -68,6 +68,7 @@ education:
         details: |
           He researches in the fields of Trustworthy (Privacy- and Security-oriented) AI, Secure Software Engineering, Empirical Software Engineering, and Software Measurement.
           He published various articles in peer-reviewed national and international journals.
+      
       - degree: MSc in Cybersecurity
         university: University of Bari "A. Moro"
         time: 2019 - 2021
@@ -78,6 +79,7 @@ education:
             - Network Security 
             - Software Security
             - Cryptography
+      
       - degree: BSc in Computer Science
         university: University of Bari "A. Moro"
         time: 2016 - 2019
@@ -90,12 +92,18 @@ education:
             - Operating Systems
             - Databases
             - Software Engineering
+      
+      - degree: Diploma Liceo Scientifico Opzione Scienze Applicate
+        university: LICEO SCIENT. OSA "LEVI-MONTALCINI"
+        time: 2011 - 2016
+        details: |
+          He acquired the fundamental notions of Mathematics, Physics, and Computer Science.
 
 experiences:
     title: Experiences
     info:
       - role: Security Analyst | Pentester | Full Stack Developer
-        time: 2019 - Present
+        time: 2021 - Present
         company: Ser&Practices Srl
         details: |
           Here he mainly works as Security Analyst. His activities involve:
@@ -158,6 +166,16 @@ certifications:
           credentialname:
           details: |
             Fortify SAST and DAST for Developers is a two day training that explores how the Fortify product suite Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST) scans for security vulnerabilities. 
+        
+        - name: Cyber Challenge.IT
+          start: 2020
+          end:
+          organization: Cybersecurity National Lab
+          credentialid:
+          credentialurl:
+          credentialname:
+          details: |
+            CyberChallenge.IT is a training programme for young talent aged 16 to 24, is Italy's leading initiative to identify, attract, recruit and place the next generation of cybersecurity professionals.
 
 # projects:
 #     title: Projects
