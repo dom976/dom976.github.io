@@ -29,7 +29,7 @@ sidebar:
     hackthebox: 298071
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: assets/pdf/cv.pdf
+    pdf: #assets/pdf/cv.pdf
 
     languages:
       title: Languages
