@@ -126,8 +126,18 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: INE eJPT
+        - name: INE eWPT
           start: 2024 (WIP)
+          end:
+          organization: INE Security
+          credentialid:
+          credentialurl:
+          credentialname:
+          details: | 
+            INE Security’s eWPT provides essential skills and knowledge required to plan and perform a thorough and professional web application penetration test and how to effectively identify, exploit, and mitigate vulnerabilities in modern web applications.
+
+        - name: INE eJPT
+          start: 2024
           end:
           organization: INE Security
           credentialid:
@@ -248,10 +258,10 @@ publications:
         authors: Vita Santa Barletta, Danilo Caivano, Domenico Gigante, Azzurra Ragone
         conference: "Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering"
 
-      - title: "The Social Impact of Generative AI: An Analysis on ChatGPT"
+      - title: "POLARIS: A framework to guide the development of Trustworthy AI systems"
         link: "https://dl.acm.org/doi/abs/10.1145/3582515.3609555"
-        authors: Maria Teresa Baldassarre, Danilo Caivano, Berenice Fernandez Nieto, Domenico Gigante, Azzurra Ragone
-        conference: "Proceedings of the 2023 ACM Conference on Information Technology for Social Good"
+        authors: Maria Teresa Baldassarre, Domenico Gigante, Marcos Kalinowski, Azzurra Ragone
+        conference: "Conference on AI Engineering Software Engineering for AI (CAIN 2024)"
 
 skills:
     title: Skills &amp; Proficiency
