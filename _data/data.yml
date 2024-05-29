@@ -256,12 +256,27 @@ publications:
       - title: "A Rapid Review of Responsible AI frameworks: How to guide the development of ethical AI"
         link: "https://dl.acm.org/doi/abs/10.1145/3593434.3593478"
         authors: Vita Santa Barletta, Danilo Caivano, Domenico Gigante, Azzurra Ragone
-        conference: "Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering"
+        conference: "Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023)"
 
       - title: "POLARIS: A framework to guide the development of Trustworthy AI systems"
         link: "https://dl.acm.org/doi/abs/10.1145/3582515.3609555"
         authors: Maria Teresa Baldassarre, Domenico Gigante, Marcos Kalinowski, Azzurra Ragone
         conference: "Conference on AI Engineering Software Engineering for AI (CAIN 2024)"
+
+      - title: "The Social Impact of Generative AI: An Analysis on ChatGPT"
+        link: "https://dl.acm.org/doi/10.1145/3582515.3609555"
+        authors: Maria Teresa Baldassarre, Danilo Caivano, Berenice Fernandez Nieto, Domenico Gigante, Azzurra Ragone
+        conference: "GoodIT '23: ACM International Conference on Information Technology for Social Good"
+
+      - title: "Fostering Human Rights in Responsible AI: A Systematic Review for Best Practices in Industry"
+        link: "https://ieeexplore.ieee.org/document/10510042"
+        authors: Maria Teresa Baldassarre, Danilo Caivano, Berenice Fernandez Nieto, Domenico Gigante, Azzurra Ragone
+        conference: "IEEE Transactions on Artificial Intelligence"
+
+      - title: "Trustworthy AI in practice: an analysis of practitioners' needs and challenges"
+        link: "https://dl.acm.org/doi/abs/10.1145/3661167.3661214"
+        authors: Maria Teresa Baldassarre, Domenico Gigante, Marcos Kalinowski, Azzurra Ragone, Sara Tibido'
+        conference: "28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024)"
 
 skills:
     title: Skills &amp; Proficiency
