@@ -13,8 +13,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    #email:
-    #phone: 012 345 6789
+    email: aaa.aaaaaaa0@aaaaa.aaa
+    phone: +39 1111111111
     timezone: Europe/Rome
     citizenship: Italian
     #website: blog.webjeda.com #do not add http://
