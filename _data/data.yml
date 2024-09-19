@@ -13,8 +13,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: aaa.aaaaaaa0@aaaaa.aaa
-    phone: +39 1111111111
+    #email: aaa.aaaaaaa0@aaaaa.aaa
+    #phone: +39 1111111111
     timezone: Europe/Rome
     citizenship: Italian
     #website: blog.webjeda.com #do not add http://
@@ -106,7 +106,7 @@ experiences:
         time: 2021 - Present
         company: Talent Garden Spa
         details: |
-          Here he worked as teacher for a Professional Master's Programme (Master di 1° livello) in Ethical Hacking.
+          Here he worked as teacher for a Professional Master's Programme (Master di 1° livello) on Ethical Hacking.
       
       - role: Security Analyst | Pentester | Full Stack Developer
         time: 2021 - Present
