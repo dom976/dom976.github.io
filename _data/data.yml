@@ -102,6 +102,12 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Cyber Security Master Teacher
+        time: 2021 - Present
+        company: Talent Garden Spa
+        details: |
+          Here he worked as teacher for a Professional Master's Programme (Master di 1° livello) in Ethical Hacking.
+      
       - role: Security Analyst | Pentester | Full Stack Developer
         time: 2021 - Present
         company: Ser&Practices Srl
