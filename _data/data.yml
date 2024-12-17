@@ -3,195 +3,225 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Domenico Gigante
-    tagline: Application Security Analyst | Pentester | Full Stack Developer & DevOps
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Domenico Gigante
+  tagline: Application Security Analyst | Pentester | Full Stack Developer & DevOps
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    #email: aaa.aaaaaaa0@aaaaa.aaa
-    #phone: +39 1111111111
-    timezone: Europe/Rome
-    citizenship: Italian
-    #website: blog.webjeda.com #do not add http://
-    linkedin: domenico-gigante-9978a6127
-    xing:
-    github:
-    telegram:
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    hackthebox: 298071
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #assets/pdf/cv.pdf
+  # Sidebar links
+  #email: aaa.aaaaaaa0@aaaaa.aaa
+  #phone: +39 1111111111
+  timezone: Europe/Rome
+  citizenship: Italian
+  #website: blog.webjeda.com #do not add http://
+  linkedin: domenico-gigante-9978a6127
+  xing:
+  github:
+  telegram:
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  hackthebox: 298071
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: #assets/pdf/cv.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Italian
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: Italian
+        level: Native
 
-        - idiom: English
-          level: Professional
+      - idiom: English
+        level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: CTF player
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: CTF player
+        link:
 
-        - item: Fitness
-          link:
+      - item: Fitness
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Domenico Gigante received the Bachelor degree in Computer Science and M.S. degree in Cybersecurity from the University of Bari "A. Moro", Italy, in 2019 and 2021, respectively. 
-      He currently works at Ser&Practices Srl as Security Analyst. His activities involve Secure Code Review, Web Application Penetration Testing, and Security-oriented software refactoring.
-      Since 2021, he has been an industrial PhD student at the Department of Computer Science, University of Bari "A. Moro".
-      He is the author and co-author of research articles in peer-reviewed national and international journals. 
-      His research interests include Trustworthy (Privacy- and Security-oriented) AI, Secure Software Engineering, Empirical Software Engineering, and Software Measurement.
-      In his free time, he loves playing CTFs, mostly on HTB, and work out.
+  title: Career Profile
+  summary: |
+    Domenico Gigante received the Bachelor degree in Computer Science and M.S. degree in Cybersecurity from the University of Bari "A. Moro", Italy, in 2019 and 2021, respectively. 
+    He currently works at Ser&Practices Srl as Cybersecurity Engineer. His activities involve Web Application Penetration Testing, VAPT and Code Review.
+    In November 2024, he has concluded his industrial PhD in Cybersecurity applied to AI-based systems at the Department of Computer Science, University of Bari "A. Moro".
+    He is the author and co-author of research articles in peer-reviewed national and international journals. 
+    His research interests include Trustworthy (Privacy- and Security-oriented) AI and Secure Software Engineering.
+    In his free time, he loves playing CTFs, mostly on HTB, reading cybersecurity bullettins, and working out.
 
 education:
-    title: Education
-    info:
-      - degree: PhD in AI and Cybersecurity
-        university: University of Bari "A. Moro"
-        time: 2021 - 2024
-        details: |
-          He researches in the fields of Trustworthy (Privacy- and Security-oriented) AI, Secure Software Engineering, Empirical Software Engineering, and Software Measurement.
-          He published various articles in peer-reviewed national and international journals.
-      
-      - degree: MSc in Cybersecurity
-        university: University of Bari "A. Moro"
-        time: 2019 - 2021
-        details: |
-          He acquired knowledge regarding the main aspects of Cybersecurity.
-          Among the most relevant topics, there are:
-            - Web Application Penentration Testing
-            - Network Security 
-            - Software Security
-            - Cryptography
-      
-      - degree: BSc in Computer Science
-        university: University of Bari "A. Moro"
-        time: 2016 - 2019
-        details: |
-          He acquired the fundamental notions of Computer Science.
-          Among these, there are:
-            - Object-Oriented Programming
-            - Data Structures and Algorithms
-            - Computer Networks
-            - Operating Systems
-            - Databases
-            - Software Engineering
-      
-      - degree: Diploma Liceo Scientifico Opzione Scienze Applicate
-        university: LICEO SCIENT. OSA "LEVI-MONTALCINI"
-        time: 2011 - 2016
-        details: |
-          He acquired the fundamental notions of Mathematics, Physics, and Computer Science.
+  title: Education
+  info:
+    - degree: PhD in AI and Cybersecurity
+      university: University of Bari "A. Moro"
+      time: 2021 - 2024
+      details: |
+        He conducted research in the fields of Trustworthy (Privacy- and Security-oriented) AI and Secure Software Engineering.
+        He published various articles in peer-reviewed national and international journals and was a speaker at international conferences, 
+        e.g. <a href="https://conf.researchr.org/home/ease-2023">International Conference on Evaluation and Assessment in Software Engineering (EASE)</a> and
+        <a href="https://conf.researchr.org/home/cain-2024">International Conference on AI Engineering (CAIN)</a>.
+        He is the main author of the <a href="https://polaris-app-5cc69.web.app/">POLARIS</a> AI framework.
+        More details in the dedicated paragraph below.
+
+    - degree: MSc in Cybersecurity
+      university: University of Bari "A. Moro"
+      time: 2019 - 2021
+      details: |
+        He acquired basic knowledge regarding the main aspects of Cybersecurity.
+        Among the most relevant topics, there are:
+          - Web Application Penetration Testing
+          - Network Security 
+          - Code Audit
+          - Cryptography
+
+    - degree: BSc in Computer Science
+      university: University of Bari "A. Moro"
+      time: 2016 - 2019
+      details: |
+        He acquired the fundamental notions of Computer Science.
+        Among these, there are:
+          - Object-Oriented Programming
+          - Data Structures and Algorithms
+          - Computer Networks
+          - Operating Systems
+          - Databases
+          - Software Engineering
+
+    - degree: Diploma Liceo Scientifico Opzione Scienze Applicate
+      university: Liceo Scientifico OSA "Levi-Montalcini"
+      time: 2011 - 2016
+      details: |
+        He acquired the fundamental notions of Mathematics, Physics, and Computer Science.
 
 experiences:
-    title: Experiences
-    info:
-      - role: Cyber Security Master Teacher
-        time: 2021 - Present
-        company: Talent Garden Spa
-        details: |
-          Here he worked as teacher for a Professional Master's Programme (Master di 1° livello) on Ethical Hacking.
-      
-      - role: Security Analyst | Pentester | Full Stack Developer
-        time: 2021 - Present
-        company: Ser&Practices Srl
-        details: |
-          Here he mainly works as Security Analyst. His activities involve:
-            - Secure Code Review
-            - Web Application Penetration Testing
-            - Security-oriented software refactoring
-          
-          He also works as Full Stack Developer & DevOps. Some of the activities are:
-            - Software Design with customer interaction
-            - Backend Development (PHP, .NET, Python, Java)
-            - Frontend Development (HTML, CSS, Javascript)
-            - Application Deployment (On-Premise and Cloud)
-      
-      - role: Junior Software Development
-        time: 2019 - 2021
-        company: Auriga Spa
-        details: |
-          Here he worked as junior developer in the banking & finance domain.
+  title: Experiences
+  info:
+    - role: Cyber Security Master Teacher
+      time: 2021 - Present
+      company: Talent Garden Spa
+      details: |
+        Here he works as teacher for a Professional Master's Programme (Master di 1° livello) on Ethical Hacking.
+        The topics are:
+          - Information Gathering
+          - Footprinting & Scanning
+          - Enumeration
+          - Fundamental Host-based & Network-based Attacks
+          - Exploitation
+          - Priviledge Escalation
+          - Metasploit Framework
+
+    - role: Pentester | Cybersecurity Engineer | Full Stack Developer
+      time: 2021 - Present
+      company: Ser&Practices Srl
+      details: |
+        Here he mainly works as Security Engineer. His activities involve:
+          - Web Application Penetration Testing
+          - Code Audit
+          - VAPT
+        More in detail, over a 3 years period here he addressed various application domains (Retails, Finance, Sport and Bidding, Furniture) and he:
+          - Performed 30 black-box API penetration tests 
+          - Performed 5 black-box web application penetration tests
+          - Performed 5 Vulnerability Assessment and Penetration Testing (VAPT) for web applications and API
+          - Reviewed the on-cloud system design for the entire product line of a proprietary service
+          - Created 100+ automation scripts using Python and Bash
+          - Discussed with 10+ company owners to provide recommendations for secure designs
+          - Wrote 100+ security reports detailing the security vulnerabilities compliant with standards like OWASP and GDPR
+          - Prepared 100+ executive reports and presentations
+          - Created 10+ cloud CI/CD pipelines to implement DevSecOps processes for companies
+
+        He also works as Project Lead for the backend side of an internal product. Some of the activities are:
+          - Interaction with customer to decide the system architecture and evolution
+          - Interaction with customer to validate bugs and customer requests
+          - Creation and maintenance of the cloud CI/CD pipeline
+          - Creation and maintenance of the required cloud environments and assets (AWS, Azure)
+          - Planning and execution of source code development tasks (PHP, .NET, Python, Bash)
+          - Creation and maintenance of the application databases (MySQL, MongoDB)
+          - Creation and maintenance of a cache system for the application (Redis)
+          - Development of webviews rendered by a mobile application (HTML, CSS, Javascript)
+
+    - role: Junior Software Developer
+      time: 2019 - 2021
+      company: Auriga Spa
+      details: |
+        Here he worked as junior developer in the banking & finance domain. His activities involved:
+          - Development of low-level libraries to interact with small and specialized hardware (C++)
+          - Development of high-level libraries to simplify the interaction with low-level libraries (C#)
+          - Development of frontend components for a proprietary console application (ASP.NET)
+          - Hardening of Windows machines against physical attacks
 
 certifications:
-      title: Certifications
-      list:
-        - name: INE eWPT
-          start: 2024 (WIP)
-          end:
-          organization: INE Security
-          credentialid:
-          credentialurl:
-          credentialname:
-          details: | 
-            INE Security’s eWPT provides essential skills and knowledge required to plan and perform a thorough and professional web application penetration test and how to effectively identify, exploit, and mitigate vulnerabilities in modern web applications.
+  title: Certifications
+  list:
+    - name: INE eWPT
+      start: 2025 (WIP)
+      end:
+      organization: INE Security
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        INE Security’s eWPT provides essential skills and knowledge required to plan and perform a thorough and professional web application penetration test and how to effectively identify, exploit, and mitigate vulnerabilities in modern web applications.
 
-        - name: INE eJPT
-          start: 2024
-          end:
-          organization: INE Security
-          credentialid:
-          credentialurl:
-          credentialname:
-          details: | 
-            INE Security’s eJPT is for Penetration testers and validates that the individual has the knowledge, skills, and abilities required to fulfill a role as a penetration tester.
-            This certification exam covers Assessment Methodologies, Host and Network Auditing, Host and Network Penetration Testing, and Web Application Penetration Testing.
+    - name: INE eJPT
+      start: 2024
+      end:
+      organization: INE Security
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        INE Security’s eJPT is for Penetration testers and validates that the individual has the knowledge, skills, and abilities required to fulfill a role as a penetration tester.
+        This certification exam covers Assessment Methodologies, Host and Network Auditing, Host and Network Penetration Testing, and Web Application Penetration Testing.
 
-        - name: Microsoft Certified - Azure Fundamentals (AZ900)
-          start: 2022
-          end:
-          organization: Microsoft
-          credentialid:
-          credentialurl:
-          credentialname:
-          details: | 
-            Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
+    - name: Microsoft Certified - Azure Fundamentals (AZ900)
+      start: 2022
+      end:
+      organization: Microsoft
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.
 
-        - name: Fortify SCA & SSC Certified Professional
-          start: 2022
-          end:
-          organization: Micro Focus
-          credentialid:
-          credentialurl:
-          credentialname:
-          details: |
-            This certification provides participants with demonstrations and hands-on activities using a practical, solutions-based approach to identify and mitigate today's most common business security risks to applications.
+    - name: Fortify SCA & SSC Certified Professional
+      start: 2022
+      end:
+      organization: Micro Focus
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        This certification provides participants with demonstrations and hands-on activities using a practical, solutions-based approach to identify and mitigate today's most common business security risks to applications.
 
-        - name: FT120 - Fortify SAST and DAST for Developers
-          start: 2022
-          end:
-          organization: Micro Focus
-          credentialid:
-          credentialurl:
-          credentialname:
-          details: |
-            Fortify SAST and DAST for Developers is a two day training that explores how the Fortify product suite Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST) scans for security vulnerabilities. 
-        
-        - name: Cyber Challenge.IT
-          start: 2020
-          end:
-          organization: Cybersecurity National Lab
-          credentialid:
-          credentialurl:
-          credentialname:
-          details: |
-            CyberChallenge.IT is a training programme for young talent aged 16 to 24, is Italy's leading initiative to identify, attract, recruit and place the next generation of cybersecurity professionals.
+    - name: FT120 - Fortify SAST and DAST for Developers
+      start: 2022
+      end:
+      organization: Micro Focus
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        Fortify SAST and DAST for Developers is a two day training that explores how the Fortify product suite Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST) scans for security vulnerabilities.
+
+    - name: Cyber Challenge.IT
+      start: 2020
+      end:
+      organization: Cybersecurity National Lab
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: |
+        CyberChallenge.IT is a training programme for young talent aged 16 to 24, is Italy's leading initiative to identify, attract, recruit and place the next generation of cybersecurity professionals.
 
 # projects:
 #     title: Projects
@@ -240,73 +270,90 @@ certifications:
 #         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      Here is the list of the currently published research papers.
-    papers:
-      - title: "Supporting Secure Agile Development: the VIS-PRISE Tool"
-        link: "https://dl.acm.org/doi/abs/10.1145/3531073.3534494"
-        authors: Maria Teresa Baldassarre, Vita Santa Barletta, Giovanni Dimauro, Domenico Gigante, Alessandro Pagano, Antonio Piccinno
-        conference: Proceedings of the 2022 International Conference on Advanced Visual Interfaces
+  title: Publications
+  intro: |
+    Here is the list of the currently published research papers.
+  papers:
+    - title: "Supporting Secure Agile Development: the VIS-PRISE Tool"
+      link: "https://dl.acm.org/doi/abs/10.1145/3531073.3534494"
+      authors: Maria Teresa Baldassarre, Vita Santa Barletta, Giovanni Dimauro, Domenico Gigante, Alessandro Pagano, Antonio Piccinno
+      conference: Proceedings of the 2022 International Conference on Advanced Visual Interfaces
 
-      - title: "Resolving Security Issues via Quality-Oriented Refactoring: A User Study"
-        link: "https://ieeexplore.ieee.org/abstract/document/10207139/"
-        authors: Domenico Gigante, Fabiano Pecorelli, Vita Santa Barletta, Andrea Janes, Valentina Lenarduzzi, Davide Taibi, Maria Teresa Baldassarre
-        conference: "2023 ACM/IEEE International Conference on Technical Debt (TechDebt)"
+    - title: "Resolving Security Issues via Quality-Oriented Refactoring: A User Study"
+      link: "https://ieeexplore.ieee.org/abstract/document/10207139/"
+      authors: Domenico Gigante, Fabiano Pecorelli, Vita Santa Barletta, Andrea Janes, Valentina Lenarduzzi, Davide Taibi, Maria Teresa Baldassarre
+      conference: "2023 ACM/IEEE International Conference on Technical Debt (TechDebt)"
 
-      - title: "From GDPR to privacy design patterns: The MATERIALIST framework"
-        link: "https://www.scitepress.org/Papers/2022/113059/113059.pdf"
-        authors: Vita Barletta, Giuseppe Desolda, Domenico Gigante, Rosa Lanzilotti, Marco Saltarella
-        conference: "Proceedings of the 19th International Conference on Security and Cryptography-SECRYPT"
+    - title: "From GDPR to privacy design patterns: The MATERIALIST framework"
+      link: "https://www.scitepress.org/Papers/2022/113059/113059.pdf"
+      authors: Vita Barletta, Giuseppe Desolda, Domenico Gigante, Rosa Lanzilotti, Marco Saltarella
+      conference: "Proceedings of the 19th International Conference on Security and Cryptography-SECRYPT"
 
-      - title: "A Rapid Review of Responsible AI frameworks: How to guide the development of ethical AI"
-        link: "https://dl.acm.org/doi/abs/10.1145/3593434.3593478"
-        authors: Vita Santa Barletta, Danilo Caivano, Domenico Gigante, Azzurra Ragone
-        conference: "Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023)"
+    - title: "A Rapid Review of Responsible AI frameworks: How to guide the development of ethical AI"
+      link: "https://dl.acm.org/doi/abs/10.1145/3593434.3593478"
+      authors: Vita Santa Barletta, Danilo Caivano, Domenico Gigante, Azzurra Ragone
+      conference: "Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering (EASE 2023)"
 
-      - title: "POLARIS: A framework to guide the development of Trustworthy AI systems"
-        link: "https://dl.acm.org/doi/abs/10.1145/3582515.3609555"
-        authors: Maria Teresa Baldassarre, Domenico Gigante, Marcos Kalinowski, Azzurra Ragone
-        conference: "Conference on AI Engineering Software Engineering for AI (CAIN 2024)"
+    - title: "POLARIS: A framework to guide the development of Trustworthy AI systems"
+      link: "https://dl.acm.org/doi/abs/10.1145/3582515.3609555"
+      authors: Maria Teresa Baldassarre, Domenico Gigante, Marcos Kalinowski, Azzurra Ragone
+      conference: "Conference on AI Engineering Software Engineering for AI (CAIN 2024)"
 
-      - title: "The Social Impact of Generative AI: An Analysis on ChatGPT"
-        link: "https://dl.acm.org/doi/10.1145/3582515.3609555"
-        authors: Maria Teresa Baldassarre, Danilo Caivano, Berenice Fernandez Nieto, Domenico Gigante, Azzurra Ragone
-        conference: "GoodIT '23: ACM International Conference on Information Technology for Social Good"
+    - title: "The Social Impact of Generative AI: An Analysis on ChatGPT"
+      link: "https://dl.acm.org/doi/10.1145/3582515.3609555"
+      authors: Maria Teresa Baldassarre, Danilo Caivano, Berenice Fernandez Nieto, Domenico Gigante, Azzurra Ragone
+      conference: "GoodIT '23: ACM International Conference on Information Technology for Social Good"
 
-      - title: "Fostering Human Rights in Responsible AI: A Systematic Review for Best Practices in Industry"
-        link: "https://ieeexplore.ieee.org/document/10510042"
-        authors: Maria Teresa Baldassarre, Danilo Caivano, Berenice Fernandez Nieto, Domenico Gigante, Azzurra Ragone
-        conference: "IEEE Transactions on Artificial Intelligence"
+    - title: "Fostering Human Rights in Responsible AI: A Systematic Review for Best Practices in Industry"
+      link: "https://ieeexplore.ieee.org/document/10510042"
+      authors: Maria Teresa Baldassarre, Danilo Caivano, Berenice Fernandez Nieto, Domenico Gigante, Azzurra Ragone
+      conference: "IEEE Transactions on Artificial Intelligence"
 
-      - title: "Trustworthy AI in practice: an analysis of practitioners' needs and challenges"
-        link: "https://dl.acm.org/doi/abs/10.1145/3661167.3661214"
-        authors: Maria Teresa Baldassarre, Domenico Gigante, Marcos Kalinowski, Azzurra Ragone, Sara Tibido'
-        conference: "28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024)"
+    - title: "Trustworthy AI in practice: an analysis of practitioners' needs and challenges"
+      link: "https://dl.acm.org/doi/abs/10.1145/3661167.3661214"
+      authors: Maria Teresa Baldassarre, Domenico Gigante, Marcos Kalinowski, Azzurra Ragone, Sara Tibido'
+      conference: "28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024)"
+
+    - title: "Ensuring Child Rights in the Age of AI: A Multidimensional Analysis of Existing Frameworks"
+      link: "https://dl.acm.org/doi/abs/10.1145/3677525.3678643"
+      authors: Danilo Caivano, Berenice Fernandez Nieto, Domenico Gigante, Azzurra Ragone, Sara Tibido'
+      conference: "GoodIT '24: ACM International Conference on Information Technology for Social Good"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Security Code Review
-        level: 80%
+  toolset:
+    - name: Code Audit
+      level: 80%
 
-      - name: Web Application Penetration Testing
-        level: 70%
+    - name: Web Application Penetration Testing
+      level: 80%
 
-      - name: Network Penetration Testing
-        level: 50%
-        
-      - name: PHP
-        level: 90%
+    - name: Vulnerability Assessment and Penetration Testing
+      level: 70%
 
-      - name: .NET
-        level: 75%
+    - name: Cloud Configuration
+      level: 60%
 
-      - name: Javascript & jQuery
-        level: 75%
+    - name: CI/CD pipeline
+      level: 60%
 
-      - name: HTML5 & CSS
-        level: 80%
+    - name: Databases
+      level: 70%
+
+    - name: Python Scripting
+      level: 80%
+
+    - name: Technical & Executive Report Writing
+      level: 90%
+
+    - name: PHP
+      level: 90%
+
+    - name: .NET
+      level: 70%
+
+    - name: Javascript & jQuery
+      level: 70%
 
 footer:
