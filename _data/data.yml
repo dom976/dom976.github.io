@@ -128,7 +128,7 @@ experiences:
           - Web Application Penetration Testing
           - Code Audit
           - VAPT
-        \
+        \\
         More in detail, over a 3 years period here he addressed various application domains (Retails, Finance, Sport and Bidding, Furniture) and he:
           - Performed 30 black-box API penetration tests (Burp, Nmap, ...)
           - Performed 5 black-box web application penetration tests (Burp, Nmap, ...)
@@ -141,7 +141,7 @@ experiences:
           - Wrote 100+ security reports detailing the security vulnerabilities compliant with standards like OWASP and GDPR
           - Prepared 100+ executive reports and presentations
           - Created 10 cloud CI/CD pipelines to implement DevSecOps processes for companies
-        \
+        \\
         He also works as Project Lead for the backend side of an internal product. Some of the activities are:
           - Interaction with customer to decide the system architecture optimization and evolution
           - Interaction with customer to validate bugs and plan change requests
