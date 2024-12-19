@@ -120,7 +120,7 @@ experiences:
           - Priviledge Escalation
           - Metasploit Framework
 
-    - role: Pentester | Cybersecurity Engineer | Full Stack Developer
+    - role: Pentester | Cybersecurity Engineer | Backend Project Lead
       time: 2021 - Present
       company: Ser&Practices Srl
       details: |
@@ -128,21 +128,23 @@ experiences:
           - Web Application Penetration Testing
           - Code Audit
           - VAPT
+        <br />
         More in detail, over a 3 years period here he addressed various application domains (Retails, Finance, Sport and Bidding, Furniture) and he:
           - Performed 30 black-box API penetration tests (Burp, Nmap, ...)
           - Performed 5 black-box web application penetration tests (Burp, Nmap, ...)
           - Performed 5 Vulnerability Assessment and Penetration Testing (VAPT) for web applications and API
           - Performed 20 code static and dynamic analyses (Fortify SAST and DAST, SonarQube)
+          - Discovered and exploited more than 100 Critical and 300 High vulnerabilities
           - Reviewed the on-cloud system design for the entire product line of a proprietary service
           - Created 100+ automation scripts using Python and Bash
           - Discussed with 10+ company owners to provide recommendations for secure designs
           - Wrote 100+ security reports detailing the security vulnerabilities compliant with standards like OWASP and GDPR
           - Prepared 100+ executive reports and presentations
-          - Created 10+ cloud CI/CD pipelines to implement DevSecOps processes for companies
-
+          - Created 10 cloud CI/CD pipelines to implement DevSecOps processes for companies
+        <br />
         He also works as Project Lead for the backend side of an internal product. Some of the activities are:
-          - Interaction with customer to decide the system architecture and evolution
-          - Interaction with customer to validate bugs and customer requests
+          - Interaction with customer to decide the system architecture optimization and evolution
+          - Interaction with customer to validate bugs and plan change requests
           - Creation and maintenance of the cloud CI/CD pipeline
           - Creation and maintenance of the required cloud environments and assets (AWS, Azure)
           - Planning and execution of source code development tasks (PHP, .NET, Python, Bash)
